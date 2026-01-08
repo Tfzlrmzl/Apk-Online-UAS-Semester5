@@ -1,0 +1,123 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(135deg, #c7f9cc, #fbcfe8);
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* CARD UTAMA */
+.card {
+    background: #ffffffcc;
+    padding: 25px;
+    border-radius: 22px;
+    width: 380px;
+    max-height: 85vh;          /* ⬅️ BIAR GA MANJANG */
+    overflow-y: auto;          /* ⬅️ SCROLL DALAM CARD */
+    box-shadow: 0 12px 30px rgba(0,0,0,0.12);
+    text-align: center;
+}
+
+/* SCROLLBAR GEMES */
+.card::-webkit-scrollbar {
+    width: 6px;
+}
+
+.card::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, #86efac, #f9a8d4);
+    border-radius: 10px;
+}
+
+/* JUDUL */
+.card h2 {
+    color: #4ade80;
+    margin-bottom: 5px;
+}
+
+/* SUBTITLE */
+.card p {
+    font-size: 14px;
+    color: #555;
+}
+
+/* INPUT & TEXTAREA */
+input,
+textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 14px;
+    border: 1px solid #ddd;
+    font-family: 'Poppins', sans-serif;
+    resize: none;
+}
+
+/* BUTTON UTAMA */
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #86efac, #f9a8d4);
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    opacity: 0.9;
+    transform: scale(1.02);
+}
+
+/* GARIS PEMISAH */
+hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, #86efac, #f9a8d4);
+    margin: 20px 0;
+}
+
+/* ITEM DIARY */
+.diary-item {
+    background: #fff;
+    padding: 14px;
+    border-radius: 14px;
+    margin-bottom: 12px;
+    text-align: left;
+}
+
+/* TANGGAL */
+.diary-item small {
+    color: #999;
+}
+
+/* LINK HAPUS */
+.diary-item a {
+    color: #ef4444;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.menu-btn {
+    display: block;
+    margin: 12px 0;
+    padding: 12px;
+    border-radius: 14px;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    background: linear-gradient(135deg, #86efac, #f9a8d4);
+    transition: 0.3s;
+}
+
+.menu-btn:hover {
+    opacity: 0.9;
+    transform: scale(1.03);
+}
+
+.menu-btn.logout {
+    background: linear-gradient(135deg, #fca5a5, #f9a8d4);
+}
