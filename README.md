@@ -74,7 +74,8 @@ diary_gemes/ ├── app/
 
 └── README.md
 
-<img width="393" height="743" alt="image" src="https://github.com/user-attachments/assets/fc4d6287-f975-469c-bb94-2d21b0422503" />
+<img width="478" height="745" alt="image" src="https://github.com/user-attachments/assets/b8f57346-cc52-46f7-9c37-2bcda561dba1" />
+
 
 
 🗄️ Database
@@ -89,7 +90,8 @@ nama	Nama pengguna
 email	Email
 password	Password
 role	admin / user
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/d4348c7b-13fd-47c3-8e78-6cae6941886b" />
+<img width="1013" height="521" alt="image" src="https://github.com/user-attachments/assets/fc5080dc-3150-49e3-8234-f2da9d067d5c" />
+
 
 
 Tabel diary
@@ -100,24 +102,27 @@ user_id	Relasi user
 judul	Judul diary
 isi	Isi diary
 tanggal	Tanggal
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/68fff2ff-cf15-42d2-b23c-dc48ccbe07d8" />
+<img width="1016" height="499" alt="image" src="https://github.com/user-attachments/assets/4cc3d8f4-7e86-414e-b413-9723a91e772e" />
+
 
 
 🔐 Sistem Login & Role
 
 Tampilan Saat Login
 
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/156bd27c-334c-4693-8a92-a7fc5e34f460" />
+<img width="1013" height="503" alt="image" src="https://github.com/user-attachments/assets/8a37da9d-f02f-4457-b13a-38d7616f5bde" />
+
 
 
 Aplikasi memiliki dua role:
 
 User → menulis, melihat, mengedit, dan menghapus diary pribadi
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/c8ff122b-a215-4988-b682-58783b37f9b4" />
+<img width="721" height="422" alt="image" src="https://github.com/user-attachments/assets/bba1b04f-bf8f-4d86-9dcd-f945f9856bad" />
+
 
 
 Admin → melihat seluruh diary dari semua user
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/d77380e7-bc31-4bf8-8167-7d65ee62c427" />
+
 
 
 Session digunakan untuk menyimpan data login dan role pengguna.
@@ -128,38 +133,44 @@ Session digunakan untuk menyimpan data login dan role pengguna.
 
 User dapat menulis diary dengan judul dan isi.
 
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/ee3dcb78-3d54-49e8-a7c4-708184a972f1" />
+<img width="1014" height="497" alt="image" src="https://github.com/user-attachments/assets/60e819c5-ad94-43bf-a533-6f087d82824f" />
+
 
 
 📖 Read – Lihat Diary
 
 User dapat melihat daftar diary miliknya.
 
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/ae4c35d6-cb1e-43e7-97ef-6327bc203988" />
+<img width="644" height="479" alt="image" src="https://github.com/user-attachments/assets/15d2b21e-a9e5-442b-8642-0d5d5054b35a" />
+
 
 
 ✏️ Update – Edit Diary
 
 User dapat mengedit diary yang sudah dibuat.
 
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/75b407db-b353-4400-919a-6453938b2295" />
+<img width="1017" height="506" alt="image" src="https://github.com/user-attachments/assets/a8a0cdc7-9959-4528-b1f0-217855cf7df6" />
+
 
 
 🗑️ Delete – Hapus Diary
 
 User dapat menghapus diary dengan konfirmasi.
 
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/e0e5a99b-c5ff-4507-a80f-272dfdee1ca2" />
+<img width="1006" height="481" alt="image" src="https://github.com/user-attachments/assets/8d5e776b-b12c-417e-a612-17f4bc2b03d7" />
+
 
 
 👑 Halaman Admin
 
 Admin memiliki halaman khusus untuk melihat seluruh diary dari semua user.
 
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/94bd54d1-55d7-4fee-bb24-38084d9e6190" />
+<img width="973" height="471" alt="image" src="https://github.com/user-attachments/assets/aad6400b-14e6-4f5f-853d-b50aa5df3b54" />
 
 
-<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/84ea716c-19f5-40d8-843c-63aeb12122c3" />
+
+<img width="1004" height="508" alt="image" src="https://github.com/user-attachments/assets/8590cd6d-5ac0-4afe-ac5b-b7e23e281e73" />
+
 
 
 🧪 Pengujian
