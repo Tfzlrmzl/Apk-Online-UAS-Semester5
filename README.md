@@ -1,8 +1,8 @@
 # Apk-Online-UAS-Semester5
 Apk_DiaryOnline_-UAS-
-Nama : Nadhia Shafira_312410498
+Nama : Muhammad Tafzil Rimzal_312310529
 
-Kelas : TI.24.A.5
+Kelas : TI.24.A.4
 
 Matkul : Pemograman Web 1
 
@@ -74,7 +74,8 @@ diary_gemes/ ├── app/
 
 └── README.md
 
-foto
+<img width="393" height="743" alt="image" src="https://github.com/user-attachments/assets/fc4d6287-f975-469c-bb94-2d21b0422503" />
+
 
 🗄️ Database
 
@@ -88,7 +89,8 @@ nama	Nama pengguna
 email	Email
 password	Password
 role	admin / user
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/d4348c7b-13fd-47c3-8e78-6cae6941886b" />
+
 
 Tabel diary
 
@@ -98,21 +100,25 @@ user_id	Relasi user
 judul	Judul diary
 isi	Isi diary
 tanggal	Tanggal
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/68fff2ff-cf15-42d2-b23c-dc48ccbe07d8" />
+
 
 🔐 Sistem Login & Role
 
 Tampilan Saat Login
 
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/156bd27c-334c-4693-8a92-a7fc5e34f460" />
+
 
 Aplikasi memiliki dua role:
 
 User → menulis, melihat, mengedit, dan menghapus diary pribadi
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/c8ff122b-a215-4988-b682-58783b37f9b4" />
+
 
 Admin → melihat seluruh diary dari semua user
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/d77380e7-bc31-4bf8-8167-7d65ee62c427" />
+
 
 Session digunakan untuk menyimpan data login dan role pengguna.
 
@@ -122,33 +128,39 @@ Session digunakan untuk menyimpan data login dan role pengguna.
 
 User dapat menulis diary dengan judul dan isi.
 
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/ee3dcb78-3d54-49e8-a7c4-708184a972f1" />
+
 
 📖 Read – Lihat Diary
 
 User dapat melihat daftar diary miliknya.
 
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/ae4c35d6-cb1e-43e7-97ef-6327bc203988" />
+
 
 ✏️ Update – Edit Diary
 
 User dapat mengedit diary yang sudah dibuat.
 
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/75b407db-b353-4400-919a-6453938b2295" />
+
 
 🗑️ Delete – Hapus Diary
 
 User dapat menghapus diary dengan konfirmasi.
 
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/e0e5a99b-c5ff-4507-a80f-272dfdee1ca2" />
+
 
 👑 Halaman Admin
 
 Admin memiliki halaman khusus untuk melihat seluruh diary dari semua user.
 
-foto
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/94bd54d1-55d7-4fee-bb24-38084d9e6190" />
 
-foto
+
+<img width="1374" height="776" alt="image" src="https://github.com/user-attachments/assets/84ea716c-19f5-40d8-843c-63aeb12122c3" />
+
 
 🧪 Pengujian
 
